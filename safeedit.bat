@@ -28,7 +28,7 @@ if "%~1" neq "" (
 :interactive
 echo My Safe File Editor
 echo ================
-echo [1] Edit a file
+echo [1] Edit/create a file
 echo [2] Restore last backup
 set /p "CHOICE=Select an option (1 or 2): "
 
